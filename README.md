@@ -1,7 +1,7 @@
 # SDA-Projects
 Some simple projects done during Data Structures and Algorithms course at FMI.
 
-**Table of contents:** 
+**Обхват на курса:** 
 - Файлове - буфериране, състояния. Приложения и особености. Текстови файлове.
 - Двоични файлове. Примери и добри практики. Изключения.
 - Линейни структури от данни. Стек.
