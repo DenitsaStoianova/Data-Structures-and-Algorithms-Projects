@@ -1,5 +1,7 @@
 # SDA-Projects
 
+<img src="https://github.com/DenitsaStoianova/SDA-Projects/blob/master/data-structures.jpeg" width="700" height="350">
+
 **Обхват на курса:** 
 - Файлове - буфериране, състояния. Приложения и особености. Текстови файлове.
 - Двоични файлове. Примери и добри практики. Изключения.
@@ -12,6 +14,4 @@
 - Дървета. Представяне и приложения.
 - Двоични дървета. Дървета за търсене.
 - Пирамида. Балансирани дървета. Дървета върху диска.
-
-<img src="https://github.com/DenitsaStoianova/SDA-Projects/blob/master/data-structures.jpeg" width="700" height="350">
 
