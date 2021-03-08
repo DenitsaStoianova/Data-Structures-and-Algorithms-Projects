@@ -12,3 +12,6 @@
 - Дървета. Представяне и приложения.
 - Двоични дървета. Дървета за търсене.
 - Пирамида. Балансирани дървета. Дървета върху диска.
+
+<img src="https://github.com/DenitsaStoianova/SDA-Projects/blob/master/data-structures.jpeg">
+
